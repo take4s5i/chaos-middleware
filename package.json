@@ -1,0 +1,16 @@
+{
+  "name": "chaos-middleware",
+  "version": "0.1.0",
+  "description": "Express middleware for chaos testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "take4s5i.0000@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "express": "^4.16.3",
+    "node-fetch": "^2.2.0"
+  }
+}
