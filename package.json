@@ -2,6 +2,12 @@
   "name": "chaos-middleware",
   "version": "0.1.0",
   "description": "Express middleware for chaos testing",
+  "keywords": [ "chaos", "express", "middleware" ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/take4s5i/chaos-middleware.git"
+  },
+  "homepage": "https://github.com/take4s5i/chaos-middleware",
   "main": "index.js",
   "scripts": {
     "test": "ava"
