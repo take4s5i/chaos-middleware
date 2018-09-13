@@ -11,7 +11,7 @@ const app = express()
 const options = {
   probability: 0.5,
   rules: [
-    { event: 'httpStatus', params: { status: 500 } }
+    { event: 'httpStatus', params: 500 }
   ]
 }
 
